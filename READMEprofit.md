@@ -15,7 +15,6 @@ The linear regression model provides a sloped straight line representing the rel
 
 
 ## Libraries and Algorithms
--  matplotlib
 -  pandas
 -  numpy 
 -  seaburn
@@ -28,4 +27,8 @@ To run tests, run the following command
   npm run test
 ```
 - We got a testing result of 88% in our regression model.
+
+## Output![finalprofitprediction](https://user-images.githubusercontent.com/92213377/215015933-e7bac01f-66cf-4498-bfea-5b81772b1251.png)
+![profitprediction](https://user-images.githubusercontent.com/92213377/215015937-0c05f3ec-9a42-4c22-b4e2-a3fd9a9763ed.png)
+
 
