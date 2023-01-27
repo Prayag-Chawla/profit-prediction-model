@@ -14,7 +14,11 @@ The linear regression model provides a sloped straight line representing the rel
 - various graphical approach to visualise data after the step of data cleansing and data reading.
 
 
-## Libraries and Algorithms
+
+
+
+## Libraries ![basic template](https://user-images.githubusercontent.com/92213377/215016077-35e1c691-346a-4445-a503-276defdc9d1a.png)
+and Algorithms
 -  pandas
 -  numpy 
 -  seaburn
